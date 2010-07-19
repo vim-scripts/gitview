@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3158
+
+this plugin enables you to open a window which lists changed git files as seen by git status -s
+use by invoking
+:GitView
+
+very preliminary version, but basically works
+
+shamelessly using stolen code from NERDTree :)
+
